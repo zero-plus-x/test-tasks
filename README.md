@@ -3,7 +3,7 @@ test-tasks
 
 0+X test tasks for developers.
 
-### iOS
+### Mobile
 - [news-app](ios/news-app )
 
 ### Java
